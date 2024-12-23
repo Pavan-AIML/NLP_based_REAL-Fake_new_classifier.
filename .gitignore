@@ -1,0 +1,6 @@
+LLMenv/
+LLmvenv/
+*.pyc
+__pyache__/
+.DS_store
+*.pem
