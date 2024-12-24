@@ -1,6 +1,10 @@
 LLMenv/
+projvenv/
 LLmvenv/
 *.pyc
 __pyache__/
 .DS_store
 *.pem
+projvenv/
+dataset.xlsx/
+datasets/
