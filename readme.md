@@ -5,5 +5,5 @@
 - Natural Language Processing (NLP) techniques will be used to extract features from the text of the news articles, which will then be used to train the machine learning model.
 - The model will be evaluated using metrics such as accuracy, precision, recall, and F1 score.
 - Important point to take care of the numpy version == 1.26.4
-- Used NLP libraries are spacy, nltk, gensim.
+- Used NLP libraries are spacy, nltk, gensim, convec.
 
